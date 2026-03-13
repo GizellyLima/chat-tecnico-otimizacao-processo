@@ -2,6 +2,10 @@
 
 Projeto de melhoria operacional focado na redução de retrabalho em atendimentos técnicos via chat.
 
+## Contexto
+
+Este projeto foi desenvolvido a partir da análise de um fluxo de atendimento técnico via chat, onde a ausência de evidências no início do atendimento gerava retrabalho e impacto negativo nos indicadores operacionais.
+
 ## Problema identificado
 
 Em atendimentos técnicos via chat, muitos chamados eram iniciados sem que o técnico anexasse as evidências necessárias para análise do problema.
@@ -28,7 +32,7 @@ Garantir que o atendimento seja focado em:
 - análise técnica
 - orientação ao usuário
 
-E não na busca por informações que deveriam estar disponíveis previamente.
+e não na busca por informações que deveriam estar disponíveis previamente.
 
 ## Benefícios esperados
 
@@ -41,6 +45,20 @@ E não na busca por informações que deveriam estar disponíveis previamente.
 ## Metodologia
 
 A proposta segue princípios de melhoria contínua e Lean, buscando eliminar desperdícios operacionais no fluxo de atendimento.
+
+## Competências demonstradas
+
+- Análise de processos
+- Identificação de gargalos operacionais
+- Otimização de fluxo de atendimento
+- Indicadores operacionais (TMA, TME)
+- Aplicação de princípios Lean
+
+## Documentação
+
+A apresentação completa do projeto está disponível no arquivo:
+
+**Otimização do Chat Técnico – Validação de Evidências.pptx**
 
 ## Autora
 
